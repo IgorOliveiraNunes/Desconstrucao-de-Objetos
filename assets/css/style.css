@@ -1,0 +1,19 @@
+*{padding:0 ;
+    margin:0 ;}
+    
+body{
+    align-items: center;
+    justify-content: center;
+    flex-direction:column ;
+    display: flex ;
+    width: 100vw ;
+    height:auto ;
+    margin:auto ;
+    background-color:rgba(8, 26, 44, 0.945);
+}
+body #titulo{
+    color:rgba(255, 255, 255, 0.616);
+    font-size:70px ;
+    margin-top:100px ;
+    margin-bottom:50px ;
+}
