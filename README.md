@@ -3,7 +3,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href= ... </a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/Desconstrucao-de-Objetos/</a>
 
 <h3>O Projeto sobre desconstrução de objetos no js.</h3>
 <h3>O Exercício feito com proposta do curso 
